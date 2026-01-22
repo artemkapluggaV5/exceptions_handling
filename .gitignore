@@ -1,0 +1,45 @@
+# ===============================
+# Python
+# ===============================
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# ===============================
+# IDE / Editors
+# ===============================
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# ===============================
+# OS files
+# ===============================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# Test / coverage
+# ===============================
+.coverage
+htmlcov/
